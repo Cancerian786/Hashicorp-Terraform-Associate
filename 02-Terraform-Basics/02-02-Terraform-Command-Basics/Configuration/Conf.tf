@@ -1,0 +1,4 @@
+<BLOCK TYPE> "<BLOCK LABEL>" "<BLOCK LABEL>" {
+# Block body
+<IDENTIFIER> = <EXPRESSION> # Argument
+}
